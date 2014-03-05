@@ -1,0 +1,19 @@
+[BeGaze]
+Converted from:	C:\Program Files\SMI\Experiment Suite 360\Experiment Center 2\Results\Readability_First_01\P02-eye_data.idf
+Date:	02.08.2013 11:27:29
+Version:	BeGaze 3.2.28
+Sample Rate:	120
+Subject:	P02
+Description:	Run2
+
+Table Header for Fixations:
+Event Type	Trial	Number	Start	End	Duration	Location X	Location Y	Dispersion X	Dispersion Y	Plane	Avg. Pupil Size X	Avg. Pupil Size Y
+
+
+Fixation L	1	1	6980203737	6980454068	250331	153.04	25.60	62	36	-1	10.09	10.09
+Fixation R	1	1	6980203737	6980454068	250331	153.04	25.60	62	36	-1	10.44	10.44
+Fixation L	1	2	6980462441	6981104935	642494	119.84	59.67	28	20	-1	10.01	10.01
+Fixation R	1	2	6980462441	6981104935	642494	119.84	59.67	28	20	-1	10.01	10.01
+Fixation L	1	3	6981288555	6981430429	141874	195.46	86.71	47	19	-1	9.85	9.85
+Fixation R	1	3	6981288555	6981430429	141874	195.46	86.71	47	19	-1	10.30	10.30
+

@@ -1,0 +1,50 @@
+001	„Perot for President“
+002	Indiens neues Regierungsteam
+003	Die Rechten Parteien in Deutschland
+004	Göttinger Autonome
+005	Ladendiebstahl
+006	Freizeit-Bolzer
+007	Die Mist-Problematik
+008	Wohnungsbau in Hamburg
+009	Revolution im Iran
+010	Gewalt im Jugendalter
+011	Kritiker in Kuba
+012	Kampfeinsätze deutscher Soldaten
+013	Parteien- und Politikerfinanzen
+014	Das Erbe der LPG
+015	Chemie in den neuen Bundesländern
+016	Polen und die EG
+017	Übernahme von adidas
+018	Der griechische Gulliver
+019	Risiken der Nachtarbeit
+020	Die Zukunft Hongkongs
+021	Japans nationaler Fetisch
+022	Der vermisste Gott
+023	Südafrika im Spannungsfeld
+024	Steuerersparnisse für Hausbesitzer
+025	Angebot für „Blaumacher“
+026	Japan und die EG
+027	Morde in Algerien
+028	Jäger 90
+029	Gedenken an Olympia '72
+030	Konjunktur in Westeuropa
+031	Grundigs Wettbewerbsfähigkeit
+032	Bürgerkrieg in Mosambik
+033	Entführung in Mexiko
+034	Dänische Versicherung
+035	Neues Asylverfahren
+036	Luftbrücke nach Sarajewo
+037	Stasivorwürfe gegen Stolpe
+038	LKW-Fahrer-Proteste in Frankreich
+039	Honeckers Flucht
+040	Neue israelische Regierung
+041	Verbot der KPdSU
+042	Goebbels Tagebücher in England
+043	Angriffe auf Kabul
+044	Leitzinsanhebung in Italien
+045	Zahlungsaufschub für Russland
+046	Rest-Jugoslawiens neuer Ministerpräsident
+047	Frauen Indiens
+048	Zypern und die Türkei
+049	500 Jahre Kolonialismus
+050	Baden-Württembergs Junge Union

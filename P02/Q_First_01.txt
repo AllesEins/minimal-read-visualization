@@ -1,0 +1,21 @@
+﻿Subject	Source	Question	Answer	
+P02	012	012 – Kampfeinsätze deutscher Soldaten  Woran soll laut Verfasser des Artikels der Einsatz von deutschen Streitkräften gebunden sein? 	Verfassungsmehrheit	
+P02	006	006 – Freizeit-Bolzer  Könne laut Artikel die DFB-Regeln auf Freizeit-Fußball im Schadensfall angewandt werden? 	Lediglich sinngemäß auf Freizeitspiele	
+P02	038	038 – LKW-Fahrer-Proteste in Frankreich  Wogegen protestieren die LKW-Fahrer? 	Einführung eines Strafpunktsystems	
+P02	021	021– Japans nationaler Fetisch  Was wird im Artikel als Folge der festen Überzeugung, Japan bekomme im Laufe der Jahre zumindest zwei südkurillische Inseln wieder, genannt? 	Japanische Baufirmen haben ausgearbeitete Pläne für die touristische Nutzung	
+P02	032	032 – Bürgerkrieg in Mosambik  Was sei die Vorraussetzung zum sofortigen Waffenstillstand? 	Straffreiheit für die Rebellen	
+P02	029	029 – Gedenken an Olympia '72  Was soll in Israel in Gedenken an die Opfer des Terroranschlags entstehen? 	Ein Gedenkhain nahe der Stadt Beer-Scheba	
+P02	024	024 – Steuerersparnisse für Hausbesitzer  Ab welchem ungefähren Zeitpunkt des Kaufs/Baus von Zweifamilienhäusern gilt das neue Gesetz zur Besteuerung? 	80er	
+P02	022	022 – Der vermisste Gott  Welche Synthese äußert Peters in dem Artikel? 	„moderne“ Mystik und Gesellschaftspolitik gehörten zusammen	
+P02	037	037 – Stasivorwürfe gegen Stolpe  Wann soll über die Änderungsanträge des Bündnis 90 diskutiert werden? 	Nach der Sommerpause	
+P02	002	002 – Indiens neues Regierungsteam  Welche der drei Aussagen zum 'Indischen Wandel' wird in dem Artikel erwähnt? 	Die Zahl der Arbeitslosen ist gestiegen, aber das Devisenpolster schwoll leicht an.	
+P02	004	004 – Göttinger Autonome  Wofür steht das 'M' der „Autonomen Antifa (M)“? 	Mittwoch	
+P02	015	015 – Chemie in den neuen Bundesländern  Was wird über die Schadstoffbelastung der Chemiestandorte ausgesagt? 	weniger belastet als angenommen	
+P02	009	009 – Revolution im Iran  Welche Naturkatastrophe traf die Millionenstadt Meschhed zwei Wochen nach den dritten großen Aufständen des Landes? 	Dürre	
+P02	041	041 – Verbot der KPdSU  Wieviele Mitglieder hat der 'Politische Rat' der KPdSU?	21	
+P02	049	049 – 500 Jahre Kolonialismus  Was soll während des G-7-Gipfels noch besprochen werden? 	Korruption in den ehemaligen Ostblockstaaten	
+P02	011	011 – Kritiker in Kuba  Welche kubanische Traditon Gästen gegenüber kann der Physikprofessor nicht mehr pflegen? 	Kaffee anbieten	
+P02	035	035 – Neues Asylverfahren  Was sieht das neue Gesetz vor? 	Abgelehnte Asylbewerber schneller abzuschieben	
+P02	042	042 – Goebbels Tagebücher in England  Was bestreiten die Teilnehmer des Kongress zum Holocaust? 	dass die Tagebücher Goebbels echt seien	
+P02	023	023 – Südafrika im Spannungsfeld  Auf welchem politischen 'Feld' sind die schärfsten Diskussionen zwischen Regierung und ANC? 	weiterhin anhaltende Gewalt	
+P02	016	016 – Polen und die EG  Worauf wird der verlorene Schwung zur Verbesserung der Wirtschaft in Polen zurückgeführt? 	Fehlende Investoren	
