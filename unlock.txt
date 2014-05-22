@@ -1,0 +1,4 @@
+- Der Ordner "source_data" muss durch den neuen ersetzt werden
+- Der Ordner "themes" muss ebenfalls durch den neuen ersetzt werden
+- Die Ordner "P01","P03","P04" müssen eingefügt werden
+- Zeile 33 in config.py muss entfernt werden um auf alle Slides zugreifen zu können
