@@ -1,4 +1,7 @@
 - Der Ordner "source_data" muss durch den neuen ersetzt werden
 - Der Ordner "themes" muss ebenfalls durch den neuen ersetzt werden
 - Die Ordner "P01","P03","P04" müssen eingefügt werden
-- Zeile 33 in config.py muss entfernt werden um auf alle Slides zugreifen zu können
+-- config.py --
+	- Zeile 09: bestimmt, welche VP-Daten geladen werden
+	- Zeile 11: bestimmt, ob die bearbeiteten (reworked-Ordner) oder die Original-Daten geladen werden
+	- Zeile 33: muss entfernt/auskommentiert werden um auf alle Slides zugreifen zu können

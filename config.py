@@ -5,8 +5,10 @@ OSS = '/'
 if sys.platform.startswith('win') or sys.platform.startswith('cygwin'):
 	OSS = '\\'
 
+# P01, P02, P03 or P04
 VP = 'P02'
 RUN = 'first'
+REWORKED = False
 RESULTS_FI_PATH = os.path.abspath('/'.join(['.',VP,RUN]))
 REWORKED_FI_PATH = os.path.join(RESULTS_FI_PATH,'reworked')
 SOURCE_FI_PATH = os.path.abspath('./source_data')

@@ -7,7 +7,7 @@ It requires Python 2.7 with the following modules installed:
   - SciPy (v. 0.9.0)
   - Scikit-learn (v. 14.0)
   - Pylab
-  - PIL (for linux: python-imaging AND python-imaging-tk)
+  - PIL or even better Pillow (v. 2.4) (for linux: python-imaging AND python-imaging-tk)
   - TKinter
 
 ##Usage

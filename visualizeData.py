@@ -1,12 +1,13 @@
 ## using Tkinter to visualize the data
 from __future__ import division
 #~ import pdb
-import os,sys,re,glob,time
+import os,sys,glob
 lib_path = os.path.abspath(os.path.join('.','scripts'))
 sys.path.append(lib_path)
 import Tkinter as tk
-import tkFileDialog as tkf
-import Image, ImageTk, ImageDraw
+#import tkFileDialog as tkf
+from PIL import Image, ImageTk#, ImageDraw
+#from PIL.Image import core as _imagingtk
 from config import *
 from collections import defaultdict
 from getData import ArticleEval,Fixation
@@ -348,6 +349,11 @@ class SlideWindow(tk.Canvas):
 	def saveNewFixations(self):
 		finame = fi_dict[self.theme][self.current_slide]
 		opath = REWORKED_FI_PATH
+		try: 
+			os.makedirs(opath)
+		except OSError:
+			if not os.path.isdir(opath):
+				raise
 		ofile = open(os.path.join(opath,finame),'w')
 
 		events = self.events
@@ -761,7 +767,7 @@ if __name__ == '__main__':
 	#~ fi_dict = createFileDictionary(RESULTS_FI_PATH,SOURCE_FI_PATH,EX_DICT,['012','006','038','021'])
 
 	#~ pdb.run('runVisualize()')	# call for debugging
-	runVisualize(reworked=False)
+	runVisualize(reworked=REWORKED)
 
 '''
  need to find some solution for moving the connect-line that isn't visible
